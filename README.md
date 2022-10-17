@@ -1,4 +1,4 @@
-# appswave-task
+# Apps Wave Task.
 
 This app is responsible for collecting the users contact details. 
 
