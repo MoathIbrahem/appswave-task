@@ -15,7 +15,7 @@ This app is responsible for collecting the users contact details.
 - Run below SQL Query to create database schema : 
 
 ```
-CREATE DATABASE `contact_db1` DEFAULT CHARACTER SET utf8mb3 DEFAULT ENCRYPTION='N';
+CREATE DATABASE `contact_db` DEFAULT CHARACTER SET utf8mb3 DEFAULT ENCRYPTION='N';
 ```
 
 - Run the below SQL Query to create contact details table : 
