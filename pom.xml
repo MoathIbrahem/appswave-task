@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>appswave-task</groupId>
 	<artifactId>appswave-task</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>""</version>
 	<packaging>war</packaging>
 	<build>
 		<plugins>
